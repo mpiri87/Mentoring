@@ -10,4 +10,3 @@ const array = [5, 4, 6, 9, 10];
 let ar = [2, 6];
 console.log(ar);
 //Array.push(value that you want to add)
-
